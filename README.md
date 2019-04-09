@@ -1,5 +1,6 @@
 # Run a pre-trained model in tfjs; fashion mnist example
 
+- Try online: <https://silky.github.io/tfjs-fashion-mnist-classifier/index.html>
 
 ![](images/ui.png)
 
